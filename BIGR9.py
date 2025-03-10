@@ -1,1 +1,2 @@
-import BIGR9
+from BIGR9 import superuser
+superuser()

@@ -1,2 +1,2 @@
-from BIGR9 import superuser
-superuser()
+from BIGR9 import prouser
+prouser()

@@ -1,2 +1,2 @@
-from BIGR9 import main
+from BIGR9 import superuser
 superuser()
